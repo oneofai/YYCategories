@@ -60,7 +60,7 @@ You can also install documentation locally using [appledoc](https://github.com/t
 
 Requirements
 ==============
-This library requires `iOS 6.0+` and `Xcode 8.0+`.
+This library requires `iOS 9.0+` and `Xcode 11.0+`.
 
 
 Notice
@@ -130,7 +130,7 @@ YYCategories is provided under the MIT license. See LICENSE file for details.
 
 系统要求
 ==============
-该项目最低支持 `iOS 6.0` 和 `Xcode 8.0`。
+该项目最低支持 `iOS 9.0` 和 `Xcode 11.0+`。
 
 
 注意

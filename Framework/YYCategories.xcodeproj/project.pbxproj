@@ -33,14 +33,10 @@
 		D9D584BB1F055E6A00CBBB61 /* NSNumber+YYAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = D9D5847B1F055E6A00CBBB61 /* NSNumber+YYAdd.m */; };
 		D9D584BC1F055E6A00CBBB61 /* NSObject+YYAdd.h in Headers */ = {isa = PBXBuildFile; fileRef = D9D5847C1F055E6A00CBBB61 /* NSObject+YYAdd.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9D584BD1F055E6A00CBBB61 /* NSObject+YYAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = D9D5847D1F055E6A00CBBB61 /* NSObject+YYAdd.m */; };
-		D9D584BE1F055E6A00CBBB61 /* NSObject+YYAddForARC.h in Headers */ = {isa = PBXBuildFile; fileRef = D9D5847E1F055E6A00CBBB61 /* NSObject+YYAddForARC.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D9D584BF1F055E6A00CBBB61 /* NSObject+YYAddForARC.m in Sources */ = {isa = PBXBuildFile; fileRef = D9D5847F1F055E6A00CBBB61 /* NSObject+YYAddForARC.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		D9D584C01F055E6A00CBBB61 /* NSObject+YYAddForKVO.h in Headers */ = {isa = PBXBuildFile; fileRef = D9D584801F055E6A00CBBB61 /* NSObject+YYAddForKVO.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9D584C11F055E6A00CBBB61 /* NSObject+YYAddForKVO.m in Sources */ = {isa = PBXBuildFile; fileRef = D9D584811F055E6A00CBBB61 /* NSObject+YYAddForKVO.m */; };
 		D9D584C21F055E6A00CBBB61 /* NSString+YYAdd.h in Headers */ = {isa = PBXBuildFile; fileRef = D9D584821F055E6A00CBBB61 /* NSString+YYAdd.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9D584C31F055E6A00CBBB61 /* NSString+YYAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = D9D584831F055E6A00CBBB61 /* NSString+YYAdd.m */; };
-		D9D584C41F055E6A00CBBB61 /* NSThread+YYAdd.h in Headers */ = {isa = PBXBuildFile; fileRef = D9D584841F055E6A00CBBB61 /* NSThread+YYAdd.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D9D584C51F055E6A00CBBB61 /* NSThread+YYAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = D9D584851F055E6A00CBBB61 /* NSThread+YYAdd.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		D9D584C61F055E6A00CBBB61 /* NSTimer+YYAdd.h in Headers */ = {isa = PBXBuildFile; fileRef = D9D584861F055E6A00CBBB61 /* NSTimer+YYAdd.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9D584C71F055E6A00CBBB61 /* NSTimer+YYAdd.m in Sources */ = {isa = PBXBuildFile; fileRef = D9D584871F055E6A00CBBB61 /* NSTimer+YYAdd.m */; };
 		D9D584C81F055E6A00CBBB61 /* CALayer+YYAdd.h in Headers */ = {isa = PBXBuildFile; fileRef = D9D584891F055E6A00CBBB61 /* CALayer+YYAdd.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -100,14 +96,10 @@
 		D9D5847B1F055E6A00CBBB61 /* NSNumber+YYAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSNumber+YYAdd.m"; sourceTree = "<group>"; };
 		D9D5847C1F055E6A00CBBB61 /* NSObject+YYAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+YYAdd.h"; sourceTree = "<group>"; };
 		D9D5847D1F055E6A00CBBB61 /* NSObject+YYAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+YYAdd.m"; sourceTree = "<group>"; };
-		D9D5847E1F055E6A00CBBB61 /* NSObject+YYAddForARC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+YYAddForARC.h"; sourceTree = "<group>"; };
-		D9D5847F1F055E6A00CBBB61 /* NSObject+YYAddForARC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+YYAddForARC.m"; sourceTree = "<group>"; };
 		D9D584801F055E6A00CBBB61 /* NSObject+YYAddForKVO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+YYAddForKVO.h"; sourceTree = "<group>"; };
 		D9D584811F055E6A00CBBB61 /* NSObject+YYAddForKVO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+YYAddForKVO.m"; sourceTree = "<group>"; };
 		D9D584821F055E6A00CBBB61 /* NSString+YYAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+YYAdd.h"; sourceTree = "<group>"; };
 		D9D584831F055E6A00CBBB61 /* NSString+YYAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+YYAdd.m"; sourceTree = "<group>"; };
-		D9D584841F055E6A00CBBB61 /* NSThread+YYAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSThread+YYAdd.h"; sourceTree = "<group>"; };
-		D9D584851F055E6A00CBBB61 /* NSThread+YYAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSThread+YYAdd.m"; sourceTree = "<group>"; };
 		D9D584861F055E6A00CBBB61 /* NSTimer+YYAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSTimer+YYAdd.h"; sourceTree = "<group>"; };
 		D9D584871F055E6A00CBBB61 /* NSTimer+YYAdd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSTimer+YYAdd.m"; sourceTree = "<group>"; };
 		D9D584891F055E6A00CBBB61 /* CALayer+YYAdd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CALayer+YYAdd.h"; sourceTree = "<group>"; };
@@ -224,14 +216,10 @@
 				D9D5847B1F055E6A00CBBB61 /* NSNumber+YYAdd.m */,
 				D9D5847C1F055E6A00CBBB61 /* NSObject+YYAdd.h */,
 				D9D5847D1F055E6A00CBBB61 /* NSObject+YYAdd.m */,
-				D9D5847E1F055E6A00CBBB61 /* NSObject+YYAddForARC.h */,
-				D9D5847F1F055E6A00CBBB61 /* NSObject+YYAddForARC.m */,
 				D9D584801F055E6A00CBBB61 /* NSObject+YYAddForKVO.h */,
 				D9D584811F055E6A00CBBB61 /* NSObject+YYAddForKVO.m */,
 				D9D584821F055E6A00CBBB61 /* NSString+YYAdd.h */,
 				D9D584831F055E6A00CBBB61 /* NSString+YYAdd.m */,
-				D9D584841F055E6A00CBBB61 /* NSThread+YYAdd.h */,
-				D9D584851F055E6A00CBBB61 /* NSThread+YYAdd.m */,
 				D9D584861F055E6A00CBBB61 /* NSTimer+YYAdd.h */,
 				D9D584871F055E6A00CBBB61 /* NSTimer+YYAdd.m */,
 			);
@@ -330,7 +318,6 @@
 				D9D584E41F055E6A00CBBB61 /* UITextField+YYAdd.h in Headers */,
 				D9D584C81F055E6A00CBBB61 /* CALayer+YYAdd.h in Headers */,
 				D9D584AE1F055E6A00CBBB61 /* NSBundle+YYAdd.h in Headers */,
-				D9D584BE1F055E6A00CBBB61 /* NSObject+YYAddForARC.h in Headers */,
 				D9D584BA1F055E6A00CBBB61 /* NSNumber+YYAdd.h in Headers */,
 				D9D584C01F055E6A00CBBB61 /* NSObject+YYAddForKVO.h in Headers */,
 				D9D584CA1F055E6A00CBBB61 /* YYCGUtilities.h in Headers */,
@@ -338,7 +325,6 @@
 				D9D584DE1F055E6A00CBBB61 /* UIScreen+YYAdd.h in Headers */,
 				D9D584CE1F055E6A00CBBB61 /* UIBarButtonItem+YYAdd.h in Headers */,
 				D9D584B61F055E6A00CBBB61 /* NSKeyedUnarchiver+YYAdd.h in Headers */,
-				D9D584C41F055E6A00CBBB61 /* NSThread+YYAdd.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -369,7 +355,7 @@
 		D9D584561F055E2200CBBB61 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0900;
+				LastUpgradeCheck = 1150;
 				ORGANIZATIONNAME = ibireme;
 				TargetAttributes = {
 					D9D5845E1F055E2200CBBB61 = {
@@ -383,6 +369,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = D9D584551F055E2200CBBB61;
 			productRefGroup = D9D584601F055E2200CBBB61 /* Products */;
@@ -423,11 +410,9 @@
 				D9D584CB1F055E6A00CBBB61 /* YYCGUtilities.m in Sources */,
 				D9D584B51F055E6A00CBBB61 /* NSDictionary+YYAdd.m in Sources */,
 				D9D584D31F055E6A00CBBB61 /* UIColor+YYAdd.m in Sources */,
-				D9D584BF1F055E6A00CBBB61 /* NSObject+YYAddForARC.m in Sources */,
 				D9D584C71F055E6A00CBBB61 /* NSTimer+YYAdd.m in Sources */,
 				D9D584B71F055E6A00CBBB61 /* NSKeyedUnarchiver+YYAdd.m in Sources */,
 				D9D584C31F055E6A00CBBB61 /* NSString+YYAdd.m in Sources */,
-				D9D584C51F055E6A00CBBB61 /* NSThread+YYAdd.m in Sources */,
 				D9D584E31F055E6A00CBBB61 /* UITableView+YYAdd.m in Sources */,
 				D9D584C91F055E6A00CBBB61 /* CALayer+YYAdd.m in Sources */,
 				D9D584BB1F055E6A00CBBB61 /* NSNumber+YYAdd.m in Sources */,
@@ -459,12 +444,16 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
@@ -492,7 +481,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -515,12 +504,16 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
@@ -542,7 +535,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -563,6 +556,7 @@
 				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MARKETING_VERSION = 1.0.5;
 				PRODUCT_BUNDLE_IDENTIFIER = com.ibireme.YYCategories;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
@@ -582,6 +576,7 @@
 				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MARKETING_VERSION = 1.0.5;
 				PRODUCT_BUNDLE_IDENTIFIER = com.ibireme.YYCategories;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
