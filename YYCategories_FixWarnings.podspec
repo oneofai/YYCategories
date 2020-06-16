@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = 'YYCategories_FixWarnings'
   s.summary      = 'A manager to get iOS keyboard views, frames and transform.'
-  s.version      = '1.0.5'
+  s.version      = '1.0.6'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.authors      = { 'Sun' => 'holaux@gmail.com' }
   s.homepage     = 'https://github.com/oneofai/YYCategories'
